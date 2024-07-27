@@ -1,0 +1,61 @@
+{
+    "Main-Img":[
+        {
+            "id" : 1,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/main-image-1.jpg"
+        },
+        {
+            "id" : 2,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/main-image-2.png"
+        },
+        {
+            "id" : 3,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/main-image-3.jpg"
+        },
+        {
+            "id" : 4,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/main-image-4.jpg"
+        },
+        {
+            "id" : 5,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/main-image-5.jpg"
+        },
+        {
+            "id" : 6,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/main-image-6.jpg"
+        }
+    ],
+    "Slider-Img":[
+        {
+            "id" : 1,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/slider-image-1.jpg"
+        },
+        {
+            "id" : 2,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/slider-image-2.png"
+        },
+        {
+            "id" : 3,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/slider-image-3.jpg"
+        },
+        {
+            "id" : 4,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/slider-image-4.avif"
+        },
+        {
+            "id" : 5,
+            "title":"CyberPunk 2077",
+            "image": "../final-image/slider-image-5.avif"
+        }
+    ]
+}
